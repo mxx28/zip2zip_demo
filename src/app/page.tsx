@@ -1018,7 +1018,7 @@ export default function Home() {
                 className="rounded-md"
               />
               <h1 className="text-4xl font-semibold tracking-normal md:text-5xl">
-                Zip2Zip Demonstration
+                zip2zip++
               </h1>
             </div>
             <p className="max-w-3xl text-sm text-muted-foreground">

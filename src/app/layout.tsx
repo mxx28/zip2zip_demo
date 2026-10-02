@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Zip2Zip Demonstration",
+  title: "zip2zip++",
   description: "Inspect Zip2Zip model compression and reconstruction artifacts.",
 };
 
